@@ -1,35 +1,107 @@
-applehtml email signatureoutlook signatureemail signaturegmail signature
+clickable signature
+html email signature
+email signature
+gmail signature
+html signature
+apple
+html email signature
+outlook signature
+email signature
+gmail signature
+clickable signature
+outlook signature
+email signature
+gmail signature
+html signature
+html email signature
+signature email
+outlook signature
+email signature
+html signature
+email campaign
+signature
+clickable signature
+html email signature
+email signature
+signatures
+html email signature
+clickable email
+email signature
+html signature
+iphone
+clickable signature
+outlook signature
+email signature
+gmail signature
+clickable signature
+html email signature
+outlook signature
+email signature
+gmail signature
+clickable signature
+html email signature
+email signature
+email signature html
+html signature
+outlook signature
+email signature
+email design
+gmail signature
+real estate
+HTML email signature
+clickable email
+email signature
+html email signature
+animated signature
+email signature
+html signature
+clickable signature
+html email signature
+outlook signature
+email signature
+gmail signature
+banner design
+email signature
+email banner
+web banner
+email header
+clickable signature
+html email signature
+outlook signature
+email signature
+gmail signature
 
-html email signatureclickable emailemail signature
 
-html email signaturesignature emailoutlook signatureemail signaturehtml signature
+COUNT    | LINE
+-----------------------------------------------------
+      15 | email signature
+      6 | html signature
+      8 | email signature
+      8 | clickable signature
 
-html email signatureclickable emailemail signaturehtml signature
 
-email campaignsignatureclickable signaturehtml email signatureemail signature
 
-signatureshtml email signatureclickable emailemail signaturehtml signature
-
-clickable signatureoutlook signatureemail signaturegmail signaturehtml signature
-
-iphoneclickable signatureoutlook signatureemail signaturegmail signature
-
-clickable signaturehtml email signatureoutlook signatureemail signaturegmail signature
-
-clickable signaturehtml email signatureemail signatureemail signature htmlhtml signature
-
-outlook signatureemail signatureemail designgmail signaturereal estate
-
-logohandwrittenemailsignature animationlogo animation
-
-html email signatureanimated signatureemail signaturehtml signature
-
-clickable signaturehtml email signatureoutlook signatureemail signaturegmail signature
-
-banner designemail signatureemail bannerweb banneremail header
-
-email campaignclickable signaturehtml email signatureemail signatureemail signature html
-
-clickable signaturehtml email signatureoutlook signatureemail signaturegmail signature
-
-html email signatureanimated signatureoutlook signatureemail signaturegmail signature
+      10 | html email signature
+       
+       
+       8 | outlook signature
+       
+       2 | clickable email
+       1 | animated signature
+       1 | apple
+       1 | banner design
+       1 | email banner
+       1 | email campaign
+       1 | email design
+       1 | email header
+       1 | email signature html
+       1 | HTML email signature
+       1 | iphone
+       1 | real estate
+       1 | signature
+       1 | signature email
+       1 | signatures
+       1 | web banner
+-----------------------------------------------------
+      72 | TOTAL LINES
+      22 | DISTINCT LINES
